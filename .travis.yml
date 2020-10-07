@@ -1,3 +1,4 @@
 # https://docs.travis-ci.com/user/languages/java/
 language: java
+os: windows
 jdk: oraclejdk9
